@@ -14,6 +14,13 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+
+}
+.project {
+    margin-left: 20px;
+    background-color: #deebf7;
+    padding: 20px;
+    width: 565px;
 }
 
 .jumbotron {
